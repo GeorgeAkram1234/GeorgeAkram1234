@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi! 👋 I’m George, a Full-Stack Web Developer specializing in the MERN stack.
 
-🎓 Business Information Systems graduate with an Excellent grade.
-💻 Currently building projects to improve my skills and gain real-world experience.
-🚀 Passionate about web development, problem-solving, and building useful applications.
+🎓 Business Information Systems graduate with an Excellent grade.<br/>
+💻 Currently building projects to improve my skills and gain real-world experience.<br/>
+🚀 Passionate about web development, problem-solving, and building useful applications<br/>
 🔍 Currently looking for a Junior Full-Stack / Frontend Developer opportunity.
 
 
